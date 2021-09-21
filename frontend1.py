@@ -1,1 +1,1 @@
-TEST1
+print ("TEST1")
